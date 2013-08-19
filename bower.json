@@ -19,7 +19,6 @@
     "demo",
     "gruntFile.js",
     "test",
-    "modules/**/demo/*.js",
-    "modules/**/test/*.js"
+    "**/*(demo|test)*"
   ]
 }
