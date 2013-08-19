@@ -19,6 +19,6 @@
     "demo",
     "gruntFile.js",
     "test",
-    "**/*(demo|test)*"
+    "modules/**/(demo|test)"
   ]
 }
